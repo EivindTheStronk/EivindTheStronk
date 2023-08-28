@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @EivindTheStronk
-- 👀 I’m interested in playing games,
-- 🌱 I’m currently learning Python
-- 📫 How to reach me on tiwtter @IvanMelonKing
+<html>
+  <h1>Hi, i am Ivan</h1>
+  <p>
+    I like to program, and i am currently learning Python<br>
+    
+  </p>
+</html>
