@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EivindTheStronk
+- 👀 I’m interested in playing games,
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me on tiwtter @IvanMelonKing
